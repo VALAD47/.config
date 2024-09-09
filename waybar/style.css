@@ -1,0 +1,49 @@
+*{
+    font-family: 'JetBrainsMonoNL Nerd Font';
+    font-weight: bold;
+    font-size: 14.5px;
+    min-height: 0;
+    color: #C5C8C6;
+}
+
+window#waybar {
+    background: transparent;
+}
+
+#workspaces{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#workspaces button{
+    padding: 0px 7px;
+    border: none;
+    border-radius: 0;
+    background-color: inherit;
+}
+
+#workspaces button.active, #workspaces button.focused{
+    padding: 0 7px;
+    border-bottom: 2px solid #c9545d; 
+    background: inherit;
+}
+
+#tray,
+#mpd,
+#custom-weather,
+#cpu, 
+#temperature, 
+#memory,
+#sway-mode,
+#backlight, 
+#pulseaudio, 
+#custom-vpn,
+#disk,
+#custom-recorder,
+#custom-audiorec,
+#battery, 
+ 
+#sideIcon,
+#network {
+  padding: 0 6px;
+}

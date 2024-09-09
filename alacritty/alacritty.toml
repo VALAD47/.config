@@ -1,0 +1,35 @@
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "ExtraBold"
+
+# Default colors
+[colors.primary]
+background = '#303030'
+foreground = '#EFEFEF'
+
+# Cursor colors
+[colors.cursor]
+text = '#EBEBEB'
+cursor = '#FF261E'
+
+# Normal colors
+[colors.normal]
+black   = '#000000'
+red     = '#CC0000'
+green   = '#4D9A05'
+yellow  = '#C3A000'
+blue    = '#3464A3'
+magenta = '#754F7B'
+cyan    = '#05979A'
+white   = '#D3D6CF'
+
+# Bright colors
+[colors.bright]
+black   = '#545652'
+red     = '#EF2828'
+green   = '#89E234'
+yellow  = '#FBE84F'
+blue    = '#729ECF'
+magenta = '#AC7EA8'
+cyan    = '#34E2E2'
+white   = '#EDEDEB'

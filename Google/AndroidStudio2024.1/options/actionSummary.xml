@@ -1,0 +1,106 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="10" l="1725285284580" />
+    </e>
+    <e n="Android.BuildApk">
+      <i c="1" l="1725287148960" />
+    </e>
+    <e n="Annotate">
+      <i c="2" l="1718735095098" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="128" l="1725287093805" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1725285199223" />
+    </e>
+    <e n="EditorLeft">
+      <i c="2" l="1725285511884" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1725285208056" />
+    </e>
+    <e n="EditorRight">
+      <i c="4" l="1725285911734" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="1" l="1718734498865" />
+    </e>
+    <e n="FindSelectionInPath">
+      <i c="12" l="1725287074550" />
+    </e>
+    <e n="Floating.CodeToolbar.Extract">
+      <i c="1" l="1725285617895" />
+    </e>
+    <e n="MakeGradleModule">
+      <i c="1" l="1725281913401" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="2" l="1725283481768" />
+    </e>
+    <e n="ProjectView.AutoscrollToSource">
+      <i c="1" l="1718734420026" />
+    </e>
+    <e n="ProjectView.OpenDirectoriesWithSingleClick">
+      <i c="1" l="1718734422757" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="8" l="1725286993225" />
+    </e>
+    <e n="Run">
+      <i c="7" l="1725286845436" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1725283206321" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1725286777263" />
+    </e>
+    <e n="SmartSelect">
+      <i c="2" l="1718734494853" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1725281144554" />
+    </e>
+    <e n="com.android.build.output.LongDownloadsNotifier$notifyIfTimeElapsed$1$1">
+      <i c="2" l="1725281778805" />
+    </e>
+    <e n="com.android.tools.idea.gradle.project.build.invoker.GradleBuildInvokerImpl$RestartAction">
+      <i c="7" l="1725286166643" />
+    </e>
+    <e n="com.android.tools.idea.gradle.project.upgrade.ProjectUpgradeNotification$1">
+      <i c="1" l="1725281474745" />
+    </e>
+    <e n="com.intellij.execution.actions.StopProcessAction">
+      <i c="1" l="1725283181478" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$result$1">
+      <i c="1" l="1725283511994" />
+    </e>
+    <e n="com.intellij.openapi.externalSystem.util.ExternalSystemUtil$6">
+      <i c="1" l="1725283212477" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="34" l="1725285812796" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1725285411036" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="19" l="1725288500512" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="4" l="1725287170803" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1725281165450" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="4" l="1725281752239" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1725286995498" />
+    </e>
+  </component>
+</application>

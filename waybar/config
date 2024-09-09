@@ -1,0 +1,109 @@
+{
+
+
+"layer": "top",
+"position": "top",
+"height": 10,
+"margin-bottom":0,
+"margin-top":0,
+"margin-left":0,
+"margin-right":0,
+
+"modules-left": ["clock","hyprland/window"],
+"modules-center": ["hyprland/workspaces"],
+"modules-right":  ["tray","disk","cpu","temperature","memory","network","hyprland/language","pulseaudio", "battery"],
+
+"hyprland/language": {
+    "format": "{flag} ",
+    
+},
+"temperature":{
+    "interval": 1,
+    "hwmon-path": "/sys/class/hwmon/hwmon5/temp1_input"
+},
+"hyprland/mode": {
+    "format": "<span style=\"italic\">{}</span>"
+},
+"hyprland/window": {
+      "format": "<span foreground='#ffffff16' background='#ffffff14'></span><span background='#ffffff27'>{title}</span><span foreground='#ffffff27'></span>",
+     "max-length": 333,
+      "seperate-outputs": true
+  },
+"tray": {
+    "icon-size": 16,
+    "spacing": 6
+},
+"clock": {
+    "locale": "C", 
+    "format": "<span foreground='#DFD0B8' background='#ffffff14'>  </span><span background='#ffffff14'>{:%I:%M:%S %p} </span>",
+    "format-alt": "<span foreground='#ffffff14'></span><span foreground='#DFD0B8' background='#ffffff14'>  </span><span background='#ffffff14'>{:%a,%b %d} </span>", // Icon: calendar-alt,
+    "interval": 1
+},
+"cpu": {
+    "format": "<span foreground='#DFD0B8'></span> {usage}%",
+    "tooltip": false,
+    "interval": 1,
+    "on-click": "kitty -e 'htop'"
+},
+"memory": {
+    "interval": 1,
+    "format": "<span foreground='#DFD0B8'>󰍛</span> {used:0.2f}/{total:0.2f}GB  <span foreground='#E67575'>󰍛</span> {swapUsed}/{swapTotal}GB",
+    "tooltip": false,
+    "warning": 70,
+    "critical": 90
+},
+"disk": {
+  "interval": 30,
+  "format": "<span foreground='#DFD0B8'></span> {percentage_used}%",
+  "path": "/"
+},
+"network": {
+  "interval": 2,
+  "format-wifi": "<span foreground='#DFD0B8'></span>  {signalStrength}% ",
+  "format-ethernet": "<span foreground='#DFD0B8'></span>",
+  "format-linked": "{ipaddr}",
+  "format-disconnected": "<span foreground='#DFD0B8'></span> Disconnected",
+  "format-disabled": "",
+  "tooltip": false,
+  "max-length": 20,
+  "min-length": 6,
+  "format-alt": "{essid}"
+},
+"idle_inhibitor": {
+    "format": "{icon}",
+    "format-icons": {
+        "activated": "",
+        "deactivated": ""
+    }
+},
+"backlight": {
+    // "device": "acpi_video1",
+    "format": "<span foreground='#DFD0B8'>{icon} </span>{percent}%",
+    "format-icons": ["", ""],
+    "on-scroll-down": "brightnessctl -c backlight set 1%-",
+    "on-scroll-up": "brightnessctl -c backlight set +1%"
+},
+"pulseaudio": {
+  "format": "<span foreground='#DFD0B8'>{icon}</span> {volume}%  {format_source}",
+  "format-bluetooth": "<span foreground='##DFD0B8'>{icon}</span> {volume}%  {format_source}",
+  "format-bluetooth-muted": "<span foreground='#D699B6'>󰖁</span>  {format_source}",
+  "format-muted": "<span foreground='#7A8478'>󰖁</span>  {format_source}",
+  "format-source": "<span foreground='#DFD0B8'></span> {volume}%",
+  "format-source-muted": "<span foreground='#F38BA8'></span>",
+  "format-icons": {
+    "headphone": "",
+    "phone": "",
+    "portable": "",
+    "default": ["", "", ""]
+  },
+  "on-click-left": "pavucontrol",
+  "input": true
+
+  },
+  "battery": {
+    "format": "<span foreground='#DFD0B8'>{icon}</span> {capacity}%",
+    "format-charging": "<span foreground='#DFD0B8'>󰂄</span> {capacity}%",
+    "format-icons": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"],
+    "interval": 30,
+   }
+}

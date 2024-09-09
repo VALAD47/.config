@@ -1,0 +1,121 @@
+[2024-05-22 22:06:07.015] [info]  [EleriumCommunicationLayer] setCfCoreHost called with https://api.curseforge.com
+[2024-05-22 22:06:07.028] [info]  [ConfigurationServiceImpl] Current env: release
+[2024-05-22 22:06:07.049] [info]  [BackgroundController] App version: 1.251.0.17831
+[2024-05-22 22:06:07.050] [info]  [BackgroundController] OS: linux
+[2024-05-22 22:06:07.050] [info]  [BackgroundController] OS version: 6.9.1-arch1-1
+[2024-05-22 22:06:07.051] [info]  [BackgroundController] App startup args: /tmp/.mount_CurseFOvyqJX/curseforge
+[2024-05-22 22:06:07.451] [info]  [BackgroundController] Electron App Ready. Continuing Initialization...
+[2024-05-22 22:06:08.763] [info]  [SessionStartedEventHandler] App session started
+[2024-05-22 22:06:08.772] [info]  [AutoUpdaterServiceImpl] Starting Auto Updater Service
+[2024-05-22 22:06:08.775] [info]  [ClientOverridesImpl] Fetching https://curseforge.overwolf.com/downloads/client-overrides-v2.json ...
+[2024-05-22 22:06:08.836] [info]  [ClientOverridesImpl] Fetching https://curseforge.overwolf.com/downloads/client-overrides-v2.json ...
+[2024-05-22 22:06:09.033] [info]  [ClientOverridesImpl] Fetching https://curseforge.overwolf.com/downloads/client-overrides-v2.json ...
+[2024-05-22 22:06:09.084] [info]  [AutoUpdaterServiceImpl] Auto updater is disabled by configuration
+[2024-05-22 22:06:09.086] [error] [LoginService] Failed to refresh tokens. Error: Missing refresh token!
+[2024-05-22 22:06:09.088] [error] [LoginService] Checking login status failed. User info is unavailable.
+[2024-05-22 22:06:09.088] [info]  [MarketingVideosServiceImpl] Fetching https://mrkt.forgecdn.net/app-vids/marketing_videos.json ...
+[2024-05-22 22:06:09.091] [info]  [AppUpdatePeriodicChecker] Running periodic app update check
+[2024-05-22 22:06:09.092] [info]  [AppUpdateServiceImpl] Checking for available application updates. Current app version is 1.251.0-17831
+[2024-05-22 22:06:09.093] [info]  Checking for update
+[2024-05-22 22:06:09.094] [info]  Electron Updater - Checking for application update
+[2024-05-22 22:06:09.100] [info]  Generated new staging user ID: 0d875df5-ad9b-5353-b5f7-fe0f5f42dc8d
+[2024-05-22 22:06:09.260] [info]  Update for version 1.251.0-17831 is not available (latest version: 1.251.0-17831, downgrade is disallowed).
+[2024-05-22 22:06:09.262] [info]  Electron Updater - App update is not available. Latest Version: 1.251.0-17831. Release Date: 2024-05-06T07:59:20.606Z
+[2024-05-22 22:06:09.263] [info]  [AppUpdateServiceImpl] No updates are available for the app.
+[2024-05-22 22:06:09.264] [info]  [AppUpdatePeriodicChecker] No app update. Scheduling the next update check in 900000 milliseconds
+[2024-05-22 22:06:09.277] [info]  [MarketingVideosServiceImpl] Fetching https://mrkt.forgecdn.net/app-vids/onboarding_videos.json ...
+[2024-05-22 22:06:09.324] [info]  [ClientOverridesImpl] Fetching https://curseforge.overwolf.com/downloads/client-overrides-v2.json ...
+[2024-05-22 22:06:09.366] [info]  [BannerConfigApi] Fetching https://content.overwolf.com/curseforge/app/config/banner-config-v1.json ...
+[2024-05-22 22:06:09.599] [info]  [PluginProcessHost] Starting Mods Agent with ports range 62523-62543
+[2024-05-22 22:06:09.601] [info]  [PluginProcessHost] Launching Mods Agent process /tmp/.mount_CurseFOvyqJX/resources/app.asar.unpacked/plugins/curse/linux/Curse.Agent.Host with args: --port=62523,--to-port=62543,--pid=21899,--appDataPath=/home/valad47/.config/CurseForge,--clientId=Overwolf
+[2024-05-22 22:06:09.617] [info]  [PluginProcessHost] Mods Agent started. pid: 22039
+[2024-05-22 22:06:10.120] [info]  [PluginProcessHost] Mods Agent process started
+[2024-05-22 22:06:10.121] [info]  [PluginWebSocket] Connecting to Mods Agent CurseForge on ports range 62523-62543
+[2024-05-22 22:06:10.125] [error] [PluginWebSocket] Websocket connection error: Error: connect ECONNREFUSED 127.0.0.1:62523
+[2024-05-22 22:06:10.138] [error] [PluginWebSocket] An error occurred while connecting to the agent plugin.
+[2024-05-22 22:06:11.141] [error] [PluginWebSocket] Websocket connection error: Error: connect ECONNREFUSED 127.0.0.1:62523
+[2024-05-22 22:06:11.154] [error] [PluginWebSocket] Websocket connection error: Error: connect ECONNREFUSED 127.0.0.1:62524
+[2024-05-22 22:06:11.166] [error] [PluginWebSocket] An error occurred while connecting to the agent plugin.
+[2024-05-22 22:06:12.170] [error] [PluginWebSocket] Websocket connection error: Error: connect ECONNREFUSED 127.0.0.1:62523
+[2024-05-22 22:06:12.183] [error] [PluginWebSocket] Websocket connection error: Error: connect ECONNREFUSED 127.0.0.1:62524
+[2024-05-22 22:06:12.197] [error] [PluginWebSocket] Websocket connection error: Error: connect ECONNREFUSED 127.0.0.1:62525
+[2024-05-22 22:06:12.210] [error] [PluginWebSocket] An error occurred while connecting to the agent plugin.
+[2024-05-22 22:06:13.366] [info]  [PluginWebSocket] Connected to mods agent
+[2024-05-22 22:06:13.368] [info]  [PluginWebSocket] Connected to Mods Agent on port 62523
+[2024-05-22 22:06:15.317] [info]  [GamesScanStartedEventHandler] Games scan started. Comprehensive: false
+[2024-05-22 22:06:15.468] [info]  [GamesScanCompletedEventHandler] Games scan completed. Comprehensive: false. Canceled: false
+[2024-05-22 22:06:15.499] [info]  [CoreServiceImpl] Mods agent was initialized successfully
+[2024-05-22 22:06:15.567] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: false
+[2024-05-22 22:06:15.570] [info]  [AppConnectivityService] Reporting app connectivity
+[2024-05-22 22:06:16.012] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: false
+[2024-05-22 22:06:16.207] [info]  [AnalyticsService] Sent a Grafana event to https://tracking.overwolf.com/tracking/InsertStats?Stats=true. Status code is 200
+[2024-05-22 22:06:21.527] [info]  [ReleaseNotesApiImpl] Fetching /1.251.0.17831/release-notes/1 ...
+[2024-05-22 22:06:24.472] [info]  [ModpacksAppServiceImpl] Getting game 432 installed modpacks
+[2024-05-22 22:06:24.490] [info]  [EleriumCommunicationLayer] Request - GET /categories - params: {"gameId":432,"classId":4471}
+[2024-05-22 22:06:24.497] [info]  [EleriumCommunicationLayer] Request - GET /categories - params: {"gameId":432,"classesOnly":true}
+[2024-05-22 22:06:24.501] [info]  [MeasurementServiceImpl] starting measurement game-dau
+[2024-05-22 22:06:24.555] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: false
+[2024-05-22 22:06:24.619] [info]  [ModpacksAppServiceImpl] Getting game 432 installed modpacks
+[2024-05-22 22:06:24.633] [info]  [EleriumCommunicationLayer] Request - GET /categories - params: {"gameId":432,"classId":6}
+[2024-05-22 22:06:24.753] [info]  [EleriumCommunicationLayer] Request - GET /categories - params: {"gameId":432,"classId":12}
+[2024-05-22 22:06:24.769] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: false
+[2024-05-22 22:06:24.795] [info]  [EleriumCommunicationLayer] Request - GET /categories - params: {"gameId":432,"classId":6552}
+[2024-05-22 22:06:24.864] [info]  [EleriumCommunicationLayer] Request - GET /categories - params: {"gameId":432,"classId":17}
+[2024-05-22 22:06:30.610] [info]  [MinecraftInstallationServiceImpl] Changing location to: /home/valad47/Documents/curseforge/minecraft
+[2024-05-22 22:06:32.420] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: true
+[2024-05-22 22:06:34.514] [info]  [AnalyticsService] trackDailyUnique is unique: true
+[2024-05-22 22:06:35.002] [info]  [EleriumCommunicationLayer] Request - GET /games/432/versions - params: None
+[2024-05-22 22:06:35.061] [info]  [EleriumCommunicationLayer] Request - GET /mods/search?classId=4471&gameId=432&pageSize=20&sortField=1&sortOrder=desc&index=0&clientCompatible=false - params: None
+[2024-05-22 22:06:35.161] [info]  [EleriumCommunicationLayer] Request - GET /minecraft/modloader?includeAll=true - params: None
+[2024-05-22 22:06:35.937] [info]  [WebAddonsServiceImpl] Got 20 search results for game 432. Page 1
+[2024-05-22 22:06:47.615] [info]  [ModpacksAppServiceImpl] Getting game 432 installed modpacks
+[2024-05-22 22:06:47.629] [info]  [MeasurementServiceImpl] starting measurement game-dau
+[2024-05-22 22:06:47.704] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: true
+[2024-05-22 22:06:47.721] [info]  [ModpacksAppServiceImpl] Getting game 432 installed modpacks
+[2024-05-22 22:06:47.827] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: true
+[2024-05-22 22:06:57.631] [info]  [AnalyticsStorageManager] Already tracked cf_daily_active_user_per_game_gameId.432 today
+[2024-05-22 22:06:57.632] [info]  [AnalyticsService] trackDailyUnique is unique: false
+[2024-05-22 22:07:38.460] [info]  [EleriumCommunicationLayer] setCfCoreHost called with https://api.curseforge.com
+[2024-05-22 22:07:38.480] [info]  [ConfigurationServiceImpl] Current env: release
+[2024-05-22 22:07:38.527] [info]  [BackgroundController] App version: 1.251.0.17831
+[2024-05-22 22:07:38.529] [info]  [BackgroundController] OS: linux
+[2024-05-22 22:07:38.531] [info]  [BackgroundController] OS version: 6.9.1-arch1-1
+[2024-05-22 22:07:38.537] [info]  [BackgroundController] App startup args: /tmp/.mount_CurseFFajA0b/curseforge,curseforge://install?addonId=394468&fileId=5284882&source=cf_website
+[2024-05-22 22:07:38.631] [info]  [BackgroundController] open-url: curseforge://install?addonId=394468&fileId=5284882&source=cf_website
+[2024-05-22 22:07:38.637] [info]  [CommandServiceImpl] Received command to install project 394468, file 5284882
+[2024-05-22 22:07:38.638] [info]  [EleriumCommunicationLayer] Request - GET /mods/394468 - params: None
+[2024-05-22 22:07:38.645] [info]  [BackgroundController] Unable to obtain single instance lock. Another instance of the app is open. Shutting down
+[2024-05-22 22:07:38.963] [info]  [CommandServiceImpl] Project 394468 - Sodium was found. Analyzing deep link flow type
+[2024-05-22 22:07:38.964] [info]  [CommandServiceImpl] Game 432 project 394468 detected. Triggering project installation flow
+[2024-05-22 22:07:38.964] [info]  [EleriumCommunicationLayer] Request - GET /mods/394468/files/5284882 - params: None
+[2024-05-22 22:07:56.311] [info]  [MinecraftModpacksServiceImpl] Creating custom Minecraft instance: sod. McVersion: 1.20.6, Modloader version: fabric-0.15.11
+[2024-05-22 22:07:56.730] [info]  [GamesServiceImpl] Instance detected: sod (no flavor) - b17adb43-a649-46ee-80fc-8d43432d6ac5 (/home/valad47/Documents/curseforge/minecraft/Instances/sod/)
+[2024-05-22 22:07:56.733] [info]  [GamesServiceImpl] Game instance changed: b17adb43-a649-46ee-80fc-8d43432d6ac5 - ["AddedToDatabase"]
+[2024-05-22 22:08:09.096] [info]  [GamesServiceImpl] Game instance changed: b17adb43-a649-46ee-80fc-8d43432d6ac5 - ["Saved"]
+[2024-05-22 22:08:09.143] [info]  [GamesServiceImpl] Game instance changed: b17adb43-a649-46ee-80fc-8d43432d6ac5 - ["Saved"]
+[2024-05-22 22:08:09.580] [info]  [MinecraftInstanceTaskCompletedEventHandler] Minecraft instance task completed
+[2024-05-22 22:08:10.797] [info]  [ProjectInstalledEventHandler] Project 306612 - Fabric API installed to sod instance
+[2024-05-22 22:08:10.798] [info]  [ProjectInstanceChangedEventHandler] Project instance 306612 - Fabric API changed
+[2024-05-22 22:08:10.801] [info]  [ProjectInstanceChangedEventHandler] Project instance 306612 - Fabric API changed
+[2024-05-22 22:08:10.939] [info]  [GamesServiceImpl] Game instance changed: b17adb43-a649-46ee-80fc-8d43432d6ac5 - ["Saved"]
+[2024-05-22 22:08:10.940] [info]  [ProjectInstanceChangedEventHandler] Project instance 394468 - Sodium changed
+[2024-05-22 22:08:10.941] [info]  [ProjectInstalledEventHandler] Project 394468 - Sodium installed to sod instance
+[2024-05-22 22:08:10.941] [info]  [ProjectInstanceChangedEventHandler] Project instance 394468 - Sodium changed
+[2024-05-22 22:08:10.948] [info]  [GamesServiceImpl] Game instance changed: b17adb43-a649-46ee-80fc-8d43432d6ac5 - ["Saved"]
+[2024-05-22 22:08:14.988] [info]  [GamesServiceImpl] Game instance changed: b17adb43-a649-46ee-80fc-8d43432d6ac5 - ["Saved"]
+[2024-05-22 22:08:16.974] [info]  [MinecraftInstanceTaskCompletedEventHandler] Minecraft instance task completed
+[2024-05-22 22:08:20.174] [info]  [GamesServiceImpl] Game instance changed: b17adb43-a649-46ee-80fc-8d43432d6ac5 - ["Saved"]
+[2024-05-22 22:08:27.387] [info]  [NetworkStatusChangedEventHandler] Network Status Changed, Status:Offline
+[2024-05-22 22:08:38.566] [error] [MinecraftModpacksServiceImpl] Failed to launch Minecraft instance: b17adb43-a649-46ee-80fc-8d43432d6ac5 Unable to launch Modpack. The file Launcher.dll does not exist in the installation directory.
+[2024-05-22 22:08:47.729] [info]  [SessionsService] session ended
+[2024-05-23 07:02:43.751] [info]  [NetworkStatusChangedEventHandler] Network Status Changed, Status:Offline
+[2024-05-23 07:02:44.084] [info]  [NetworkStatusChangedEventHandler] Network Status Changed, Status:Online
+[2024-05-23 07:05:23.469] [info]  [BackgroundController] Request to shutdown from tray ...
+[2024-05-23 07:05:23.472] [info]  [BackgroundController] Shutting down...
+[2024-05-23 07:05:23.474] [info]  [CoreServiceImpl] Performing shutdown cleanup actions
+[2024-05-23 07:05:23.476] [info]  [InstalledAddonsServiceImpl] Cleanup - committing deletion transactions
+[2024-05-23 07:05:23.478] [info]  [CoreServiceImpl] Shutdown cleanup actions complete
+[2024-05-23 07:05:25.546] [info]  [BackgroundController] Destroying desktop window...
+[2024-05-23 07:05:25.561] [info]  [BackgroundController] Request to shutdown from tray ...
+[2024-05-23 07:05:25.563] [info]  [AutoUpdaterServiceImpl] Stopping Auto Updater Service
+[2024-05-23 07:05:25.564] [info]  [BackgroundController] Shutdown complete. Exiting app...

@@ -1,0 +1,757 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="android-diia" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3p4vp1yyzbui6">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/opensource/src/main/java/ua/gov/diia/opensource/util/DeeplinkProcessorImpl.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="88">
+                <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menu/src/main/AndroidManifest.xml">
+          <provider editor-type-id="text-editor" selected="true" />
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menu/build/generated/source/navigation-args/gplay/debug/ua/gov/diia/menu/NavMenuActionsDirections.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="88">
+                <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menu/src/test/java/ua/gov/diia/menu/MainDispatcherRule.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="110">
+                <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menu/src/main/java/ua/gov/diia/menu/MenuContentController.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="330">
+                <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+                <folding>
+                  <element signature="e#1454#1485#1" expanded="true" />
+                </folding>
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login/src/main/java/ua/gov/diia/login/model/LoginToken.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="132">
+                <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login/src/main/java/ua/gov/diia/login/ui/LoginF.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="-946">
+                <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/ua/gov/diia/core/CoreConstants.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="44">
+                <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/ua/gov/diia/core/ExcludeFromJacocoGeneratedReport.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="110">
+                <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/ua/gov/diia/core/ui/dynamicdialog/ActionsConst.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="44">
+                <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "XML": {
+      "usageCount": 2,
+      "lastUsed": 1725288687330
+    },
+    "Gradle": {
+      "usageCount": 1,
+      "lastUsed": 1725283192194
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1725283141098
+    },
+    "Kotlin": {
+      "usageCount": 10,
+      "lastUsed": 1725290807218
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ua.gov.diia.opensource</find>
+      <find>ua.gov.diia.opensource.fake</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/opensource/src/main/java/ua/gov/diia/opensource/data/network</dir>
+      <dir>$PROJECT_DIR$/opensource</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/opensource/src/main/java/ua/gov/diia/opensource/data/network/TimeoutConstants.kt" />
+      <option value="$PROJECT_DIR$/opensource/src/main/java/ua/gov/diia/opensource/App.kt" />
+      <option value="$PROJECT_DIR$/opensource/src/main/java/ua/gov/diia/opensource/data/network/ApiLogger.kt" />
+      <option value="$PROJECT_DIR$/opensource/src/main/java/ua/gov/diia/opensource/data/network/NetworkConnectivityObserver.kt" />
+      <option value="$PROJECT_DIR$/opensource/src/main/res/navigation/nav_main.xml" />
+      <option value="$PROJECT_DIR$/opensource/build/generated/source/navigation-args/gplay/debug/ua/gov/diia/menu/ui/MenuFComposeDirections.kt" />
+      <option value="$PROJECT_DIR$/opensource/build/generated/source/navigation-args/gplay/debug/ua/gov/diia/opensource/fake/NavHomeChildrenDirections.kt" />
+      <option value="$PROJECT_DIR$/opensource/build/generated/source/navigation-args/gplay/debug/ua/gov/diia/opensource/fake/NavMainXmlDirections.kt" />
+      <option value="$PROJECT_DIR$/opensource/build/generated/source/navigation-args/gplay/debug/ua/gov/diia/opensource/ui/fragments/FeedFDirections.kt" />
+      <option value="$PROJECT_DIR$/opensource/build/generated/source/navigation-args/gplay/debug/ua/gov/diia/opensource/ui/fragments/context/ContextMenuDFDirections.kt" />
+      <option value="$PROJECT_DIR$/opensource/build/generated/source/navigation-args/gplay/debug/ua/gov/diia/opensource/ui/fragments/settings/SettingsFDirections.kt" />
+      <option value="$PROJECT_DIR$/opensource/build/generated/source/navigation-args/gplay/debug/ua/gov/diia/opensource/ui/fragments/system/SystemDialogDirections.kt" />
+      <option value="$PROJECT_DIR$/opensource/src/main/AndroidManifest.xml" />
+      <option value="$PROJECT_DIR$/opensource/build.gradle" />
+      <option value="$PROJECT_DIR$/opensource/build/generated/source/buildConfig/gplay/debug/ua/gov/diia/opensource/BuildConfig.java" />
+      <option value="$PROJECT_DIR$/opensource/google-services.json" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="1" lastUsage="1725283192194" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1725283141107" />
+    </language>
+    <language id="XML">
+      <summary usageCount="2" lastUsage="1725288687330" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="10" lastUsage="1725290807218" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core/data}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core/models}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core/network}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core/push}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core/ui}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core/ui}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core/ui/dynamicdialog}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core/ui}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core/ui/fragments/dialogs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/core/src/main/java/ua/gov/diia/core/util}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="login" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="login" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="login" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/login/src/main/java/ua/gov/diia/login}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="login" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/login/src/main/java/ua/gov/diia/login}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/login/src/main/java/ua/gov/diia/login/model}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="login" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/login/src/main/java/ua/gov/diia/login}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/login/src/main/java/ua/gov/diia/login/network}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="login" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/login/src/main/java/ua/gov/diia/login}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/login/src/main/java/ua/gov/diia/login/ui}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="menu" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="menu" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="menu" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="menu" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/menu/src/main/java/ua/gov/diia/menu}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diia" type="1abcf292:AndroidViewProjectNode" />
+              <item name="menu" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/valad47/dev/android-diia/menu/src/test/java/ua/gov/diia/menu}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.opensource" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22574627" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32988167" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32988167" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32988167" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
+      <unified_weights bottom="0.32988167" left="0.22574627" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Run</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="225" width="894" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1725287047001">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="225" width="894" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1725287047001" />
+    <state x="469" y="201" key="SettingsEditor" timestamp="1725286815310">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="201" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1725286815310" />
+    <state x="747" y="323" width="416" height="425" key="chooseDestDirectoryDialog" timestamp="1725285611474">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="747" y="323" width="416" height="425" key="chooseDestDirectoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1725285611474" />
+    <state x="1200" y="504" width="674" height="576" key="find.popup" timestamp="1725287096613">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1200" y="504" width="674" height="576" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1725287096613" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opensource/src/main/java/ua/gov/diia/opensource/data/network/ApiLogger.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state>
+            <caret column="32" selection-start-column="32" selection-end-column="32" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opensource/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+          <folding>
+            <element signature="e#344#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opensource/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="84" column="66" selection-start-line="84" selection-start-column="66" selection-end-line="84" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opensource/src/main/java/ua/gov/diia/opensource/util/DeeplinkProcessorImpl.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="88">
+            <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu/build/generated/source/navigation-args/gplay/debug/ua/gov/diia/menu/NavMenuActionsDirections.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="88">
+            <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu/src/test/java/ua/gov/diia/menu/MainDispatcherRule.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="110">
+            <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu/src/main/java/ua/gov/diia/menu/MenuContentController.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="330">
+            <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+            <folding>
+              <element signature="e#1454#1485#1" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/src/main/java/ua/gov/diia/login/model/LoginToken.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="132">
+            <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/src/main/java/ua/gov/diia/login/ui/LoginF.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="-946">
+            <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/ua/gov/diia/core/CoreConstants.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="44">
+            <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/ua/gov/diia/core/ExcludeFromJacocoGeneratedReport.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="110">
+            <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/ua/gov/diia/core/ui/dynamicdialog/ActionsConst.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="44">
+            <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,164 @@
+# using the super key
+set $mod Mod4
+xwayland enable
+
+# set terminal and menu
+set $term tilix
+set $menu rofi -show drun
+
+# wallpaper
+output * background ~/.config/sway/background.png fill
+
+# shortcuts
+bindsym --to-code $mod+Return exec $term
+bindsym --to-code $mod+Shift+Return exec kitty
+bindsym --to-code $mod+Space exec $menu
+bindsym --to-code $mod+f exec thunar
+bindsym --to-code $mod+c exec swaymsg "workspace 5 󰨞; exec code"
+bindsym --to-code $mod+b exec swaymsg "workspace 2 ; exec google-chrome-stable"
+bindsym --to-code $mod+s exec swaymsg "workspace 4 ; exec spotify-launcher"
+bindsym --to-code $mod+t exec swaymsg "workspace 3 ; exec ayugram-desktop"
+bindsym --to-code $mod+g exec swaymsg "workspace 8; exec gimp"
+bindsym --to-code $mod+d exec swaymsg "workspace 9 󰙯; exec discord"
+bindsym --to-code $mod+n exec kitty -e nmtui
+
+# language
+
+input "1:1:AT_Translated_Set_2_keyboard" {
+    xkb_layout us,ua,ru
+    xkb_options grp:alt_shift_toggle
+}
+
+# rules
+for_window [app_id="pavucontrol"] floating enable
+for_window [app_id="arduino"] floating enable
+for_window [app_id="galculator"] floating enable
+for_window [app_id="kitty"] floating enable, resize set 1280 720
+for_window [app_id="nwg-look"] floating enable
+for_window [app_id="mpv"] floating enable, resize set 1280 720
+for_window [app_id="qimgv"] floating enable, resize set 1280 720
+
+# windows
+bindsym --to-code $mod+q kill
+bindsym --to-code $mod+Shift+r reload; exec notify-send 'sway' 'Restarted'
+bindsym --to-code $mod+Shift+e exit
+bindsym --to-code $mod+Shift+f floating toggle
+
+# move focus
+bindsym --to-code $mod+Left focus left
+bindsym --to-code $mod+Right focus right
+bindsym --to-code $mod+Up focus up
+bindsym --to-code $mod+Down focus down
+
+# move window
+bindsym --to-code $mod+Shift+Left move left
+bindsym --to-code $mod+Shift+Right move right
+bindsym --to-code $mod+Shift+Up move up
+bindsym --to-code $mod+Shift+Down move down
+
+# resize window
+bindsym --to-code $mod+Ctrl+Left resize shrink width 20px
+bindsym --to-code $mod+Ctrl+Right resize grow width 20px
+
+# audio
+bindsym --to-code XF86AudioRaiseVolume exec changevolume up
+bindsym --to-code XF86AudioLowerVolume exec changevolume down
+bindsym --to-code XF86AudioMute exec changevolume mute
+
+# Audio player
+
+bindsym --to-code XF86AudioPlay exec playerctl play-pause
+bindsym --to-code XF86AudioPrev exec playerctl previous
+bindsym --to-code XF86AudioNext exec playerctl next
+
+# Brightness 
+
+bindsym --to-code XF86MonBrightnessDown exec light -U 5
+bindsym --to-code XF86MonBrightnessUp exec light -A 5 
+
+#touchpad configuration
+input "type:touchpad" {
+    dwt disabled
+    tap enabled
+    drag enabled
+    natural_scroll enabled
+}
+
+# Touchpad gestures
+
+
+#
+# Workspaces:
+#
+    # Switch to workspace
+    bindsym --to-code $mod+1 workspace number 1
+    bindsym --to-code $mod+2 workspace number 2  
+    bindsym --to-code $mod+3 workspace number 3  
+    bindsym --to-code $mod+4 workspace number 4  
+    bindsym --to-code $mod+5 workspace number 5 󰨞
+    bindsym --to-code $mod+6 workspace number 6
+    bindsym --to-code $mod+7 workspace number 7 󰋀 
+    bindsym --to-code $mod+8 workspace number 8
+    bindsym --to-code $mod+9 workspace number 9 󰙯
+    bindsym --to-code $mod+0 workspace number 10
+    # Move focused container to workspace
+    bindsym --to-code $mod+Shift+1 move container to workspace number 1; workspace number 1
+    bindsym --to-code $mod+Shift+2 move container to workspace number 2  ; workspace number 2  
+    bindsym --to-code $mod+Shift+3 move container to workspace number 3  ; workspace number 3  
+    bindsym --to-code $mod+Shift+4 move container to workspace number 4  ; workspace number 4  
+    bindsym --to-code $mod+Shift+5 move container to workspace number 5 󰨞 ; workspace number 5 󰨞
+    bindsym --to-code $mod+Shift+6 move container to workspace number 6; workspace number 6
+    bindsym --to-code $mod+Shift+7 move container to workspace number 7 󰋀 ; workspace number 7 󰋀 
+    bindsym --to-code $mod+Shift+8 move container to workspace number 8; workspace number 8
+    bindsym --to-code $mod+Shift+9 move container to workspace number 9 󰙯 ; workspace number 9 󰙯
+    bindsym --to-code $mod+Shift+0 move container to workspace number 10 ; workspace number 10
+
+    # Second layer 
+    bindsym --to-code $mod+ctrl+1 workspace number 11
+    bindsym --to-code $mod+ctrl+2 workspace number 12
+    bindsym --to-code $mod+ctrl+3 workspace number 13
+    bindsym --to-code $mod+ctrl+4 workspace number 14
+    bindsym --to-code $mod+ctrl+5 workspace number 15
+    bindsym --to-code $mod+ctrl+6 workspace number 16
+    bindsym --to-code $mod+ctrl+7 workspace number 17
+    bindsym --to-code $mod+ctrl+8 workspace number 18
+    bindsym --to-code $mod+ctrl+9 workspace number 19
+    bindsym --to-code $mod+ctrl+0 workspace number 20
+
+    bindsym --to-code $mod+Shift+ctrl+1 move container to workspace number 11; workspace number 11
+    bindsym --to-code $mod+Shift+ctrl+2 move container to workspace number 12; workspace number 12
+    bindsym --to-code $mod+Shift+ctrl+3 move container to workspace number 13; workspace number 13
+    bindsym --to-code $mod+Shift+ctrl+4 move container to workspace number 14; workspace number 14
+    bindsym --to-code $mod+Shift+ctrl+5 move container to workspace number 15; workspace number 15
+    bindsym --to-code $mod+Shift+ctrl+6 move container to workspace number 16; workspace number 16
+    bindsym --to-code $mod+Shift+ctrl+7 move container to workspace number 17; workspace number 17
+    bindsym --to-code $mod+Shift+ctrl+8 move container to workspace number 18; workspace number 18
+    bindsym --to-code $mod+Shift+ctrl+9 move container to workspace number 19; workspace number 19
+    bindsym --to-code $mod+Shift+ctrl+0 move container to workspace number 20; workspace number 20
+
+    bindsym --to-code alt+tab workspace back_and_forth
+    # Note: workspaces can have any name you want, not just numbers.
+    # We just use 1-10 as the default.
+#
+#
+# Screen Capture
+
+bindsym --to-code Print exec grim -g "$(slurp)" - | wl-copy; exec notify-send 'Grim' 'Selected image copied to clipboard'
+bindsym --to-code $mod+Print exec grim - | wl-copy; exec notify-send 'Grim' 'Image copied into clipboard'
+
+### Gaps
+gaps inner 15
+default_border pixel 2
+
+
+### Bordersz
+client.focused          #a5adcb #a5adcb #24283b #a5adcb #a5adcb
+client.focused_inactive #24283b #24283b #a5adcb #24283b #24283b
+client.unfocused        #24283b #24283b #a5adcb #24283b #24283b
+client.urgent           #F15D22 #F15D22 #24283b #F15D22 #F15D22
+client.placeholder      #24283b #24283b #a5adcb #24283b #24283b
+client.background       #24283b
+
+bar { 
+     swaybar_command waybar
+     }

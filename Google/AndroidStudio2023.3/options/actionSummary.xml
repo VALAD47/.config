@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Annotate">
+      <i c="2" l="1718735095098" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="1" l="1718734498865" />
+    </e>
+    <e n="ProjectView.AutoscrollToSource">
+      <i c="1" l="1718734420026" />
+    </e>
+    <e n="ProjectView.OpenDirectoriesWithSingleClick">
+      <i c="1" l="1718734422757" />
+    </e>
+    <e n="SmartSelect">
+      <i c="2" l="1718734494853" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1718733604970" />
+    </e>
+    <e n="com.android.build.output.LongDownloadsNotifier$notifyIfTimeElapsed$1$1">
+      <i c="1" l="1718733767181" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="27" l="1718736784341" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1718733783578" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="3" l="1718734421458" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/dev/Android/android-diia">
+          <value>
+            <RecentProjectMetaInfo frameTitle="android-diia – FragmentNavigationExt.kt [Diia.web.main]" projectWorkspaceId="2i3yaLGKeD0ci57FGGLcvgxSkv3">
+              <option name="activationTimestamp" value="1718737130219" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-233.14808.21.2331.11926650" />
+              <option name="buildTimestamp" value="1717540200000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="22" y="44" width="1876" height="1014" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1718733620172" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/android-diia">
+          <value>
+            <RecentProjectMetaInfo frameTitle="android-diia – ActionsConst.kt [Diia.core.main]" opened="true" projectWorkspaceId="2lW5hKEImKNqGgNLfGSwmiVQiUu">
+              <option name="activationTimestamp" value="1725290569904" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-241.18034.62.2412.12266719" />
+              <option name="buildTimestamp" value="1724362140000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="22" y="44" width="1876" height="1014" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1725281158299" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/dev/android-diia" />
+  </component>
+</application>
