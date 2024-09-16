@@ -1,0 +1,131 @@
+14:53:22.605: Platform: Wayland
+14:53:22.605: CPU Name: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+14:53:22.605: CPU Speed: 1374.094MHz
+14:53:22.605: Physical Cores: 4, Logical Cores: 8
+14:53:22.605: Physical Memory: 9887MB Total, 1101MB Free
+14:53:22.605: Kernel Version: Linux 6.10.9-zen1-2-zen
+14:53:22.606: Distribution: "Arch Linux" Unknown
+14:53:22.606: Desktop Environment:  (hyprland)
+14:53:22.606: Session Type: wayland
+14:53:22.611: Qt Version: 6.7.2 (runtime), 6.7.2 (compiled)
+14:53:22.611: Portable mode: false
+14:53:22.675: OBS 30.2.1-1 (linux)
+14:53:22.675: ---------------------------------
+14:53:22.676: ---------------------------------
+14:53:22.676: audio settings reset:
+14:53:22.676: 	samples per sec: 48000
+14:53:22.676: 	speakers:        2
+14:53:22.676: 	max buffering:   960 milliseconds
+14:53:22.676: 	buffering type:  dynamically increasing
+14:53:22.686: ---------------------------------
+14:53:22.686: Initializing OpenGL...
+14:53:22.686: Using EGL/Wayland
+14:53:22.776: Initialized EGL 1.5
+14:53:22.800: Loading up OpenGL on adapter AMD AMD Radeon Vega 8 Graphics (radeonsi, raven, LLVM 18.1.8, DRM 3.57, 6.10.9-zen1-2-zen)
+14:53:22.800: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.2.2-arch1.1, shading language 4.60
+14:53:22.850: ---------------------------------
+14:53:22.850: video settings reset:
+14:53:22.850: 	base resolution:   1920x1080
+14:53:22.850: 	output resolution: 1280x720
+14:53:22.850: 	downscale filter:  Bicubic
+14:53:22.850: 	fps:               30/1
+14:53:22.850: 	format:            NV12
+14:53:22.850: 	YUV mode:          Rec. 709/Partial
+14:53:22.850: NV12 texture support enabled
+14:53:22.850: P010 texture support not available
+14:53:22.862: Audio monitoring device:
+14:53:22.862: 	name: Default
+14:53:22.862: 	id: default
+14:53:22.862: ---------------------------------
+14:53:22.885: Failed to load 'en-US' text for module: 'decklink-captions.so'
+14:53:22.909: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+14:53:22.937: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+14:53:22.937: Failed to initialize module 'decklink.so'
+14:53:23.288: [pipewire] No capture sources available
+14:53:23.341: v4l2loopback not installed, virtual camera not registered
+14:53:23.459: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+14:53:23.459: FFmpeg VAAPI H264 encoding not supported
+14:53:23.459: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+14:53:23.459: FFmpeg VAAPI AV1 encoding not supported
+14:53:23.459: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+14:53:23.459: FFmpeg VAAPI HEVC encoding not supported
+14:53:23.732: ---------------------------------
+14:53:23.732:   Loaded Modules:
+14:53:23.732:     text-freetype2.so
+14:53:23.732:     rtmp-services.so
+14:53:23.732:     obs-x264.so
+14:53:23.732:     obs-webrtc.so
+14:53:23.732:     obs-vst.so
+14:53:23.732:     obs-transitions.so
+14:53:23.732:     obs-qsv11.so
+14:53:23.732:     obs-outputs.so
+14:53:23.732:     obs-libfdk.so
+14:53:23.732:     obs-filters.so
+14:53:23.732:     obs-ffmpeg.so
+14:53:23.732:     linux-v4l2.so
+14:53:23.732:     linux-pulseaudio.so
+14:53:23.732:     linux-pipewire.so
+14:53:23.732:     linux-jack.so
+14:53:23.732:     linux-capture.so
+14:53:23.732:     linux-alsa.so
+14:53:23.732:     image-source.so
+14:53:23.732:     frontend-tools.so
+14:53:23.732:     decklink-output-ui.so
+14:53:23.732:     decklink-captions.so
+14:53:23.732: ---------------------------------
+14:53:23.733: ---------------------------------
+14:53:23.733: Available Encoders:
+14:53:23.733:   Video Encoders:
+14:53:23.733: 	- ffmpeg_svt_av1 (SVT-AV1)
+14:53:23.733: 	- ffmpeg_aom_av1 (AOM AV1)
+14:53:23.733: 	- obs_x264 (x264)
+14:53:23.733:   Audio Encoders:
+14:53:23.733: 	- ffmpeg_aac (FFmpeg AAC)
+14:53:23.733: 	- ffmpeg_opus (FFmpeg Opus)
+14:53:23.733: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+14:53:23.733: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+14:53:23.733: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+14:53:23.733: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+14:53:23.733: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+14:53:23.733: 	- libfdk_aac (libfdk AAC)
+14:53:23.733: ==== Startup complete ===============================================
+14:53:23.768: All scene data cleared
+14:53:23.768: ------------------------------------------------
+14:53:23.776: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.3) 15.0.0'
+14:53:23.777: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:53:23.777: pulse-input: Started recording from 'alsa_output.pci-0000_04_00.6.analog-stereo.monitor' (default)
+14:53:23.777: [Loaded global audio device]: 'Desktop Audio'
+14:53:23.778: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.3) 15.0.0'
+14:53:23.778: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:53:23.778: pulse-input: Started recording from 'alsa_input.pci-0000_04_00.6.analog-stereo'
+14:53:23.778: [Loaded global audio device]: 'Mic/Aux'
+14:53:23.779: Source ID 'pipewire-desktop-capture-source' not found
+14:53:23.779: Failed to create source 'Screen Capture (PipeWire)'!
+14:53:23.785: Switched to scene 'Camera'
+14:53:23.785: ------------------------------------------------
+14:53:23.785: Loaded scenes:
+14:53:23.785: - scene 'Scene':
+14:53:23.785:     - source: 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source)
+14:53:23.785: - scene 'Camera':
+14:53:23.785:     - source: 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source)
+14:53:23.785: ------------------------------------------------
+14:53:23.923: [camera-portal] Successfully accessed cameras
+14:53:23.968: [pipewire] Server version: 1.2.3
+14:53:23.968: [pipewire] Library version: 1.2.3
+14:53:23.968: [pipewire] Header version: 1.2.1
+14:53:23.968: [pipewire] Created registry 0x5b087f38b900
+14:53:23.968: [camera-portal] Found device v4l2_input.pci-0000_04_00.4-usb-0_2.1_1.0
+14:53:23.968: [camera-portal] streaming camera 'v4l2_input.pci-0000_04_00.4-usb-0_2.1_1.0'
+14:53:23.968: [pipewire] Created stream 0x7eaa44002710
+14:53:23.968: [pipewire] Stream 0x7eaa44002710 state: "connecting" (error: none)
+14:53:23.969: [pipewire] Playing stream 0x7eaa44002710
+14:53:23.969: [pipewire] Stream 0x7eaa44002710 state: "paused" (error: none)
+14:53:24.002: [pipewire] Stream 0x7eaa44002710 state: "error" (error: error set output format: -16 (Device or resource busy))
+14:53:24.002: [pipewire] Error id:4 seq:18 res:-32 (Broken pipe): error set output format: -16 (Device or resource busy)
+14:53:24.341: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+14:53:24.341: 
+14:53:37.992: User switched to scene 'Scene'
+14:53:46.916: User Removed source 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source) from scene 'Scene'
+14:54:06.174: User switched to scene 'Camera'
+14:54:07.636: User switched to scene 'Scene'
+14:54:32.920: The Wayland connection broke during blocking read event. Did the Wayland compositor die?
